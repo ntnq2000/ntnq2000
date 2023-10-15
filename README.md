@@ -1,8 +1,5 @@
 <img src="https://64.media.tumblr.com/135f8860e99cbb2d22dc92cb841f7544/9cc5c707ad7825dd-6f/s1280x1920/d3daabb76d28fe0d04a0a057466c99ac9d0c4f4d.jpg" alt="MasterHead" style="width: 100%; max-width: 600px; height: auto;">
 
-
-
-
 <h1 align="center"> Welcome 👋 to my GitHub Space </h1>
 <h3 align="center"> I'm Quynh Nguyen</h3>
 <p align="center"> Engineering Data Science | Machine Learning Enthusiast | Advocate for Women in STEM</p>
