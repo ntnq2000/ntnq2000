@@ -6,7 +6,7 @@
 
 <hr>
 <body>
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/11xOhngUw9vipi/giphy.gif?cid=ecf05e47sqvt3cyzaiwe49uprcrhk04572vm5oowuwxri4mv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/11xOhngUw9vipi/giphy.gif?cid=ecf05e47sqvt3cyzaiwe49uprcrhk04572vm5oowuwxri4mv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 
