@@ -2,7 +2,7 @@
 
 <h1 align="center"> Welcome 👋 to my GitHub Space </h1>
 <h3 align="center"> I'm Quynh Nguyen
-<p align="center"> Engineering Data Science | Machine Learning Enthusiast | Advocate for Women in STEM</h3>
+<p align="center"> Engineering Data Science | Machine Learning Enthusiast | Women in STEM</h3>
 
 <hr>
 
