@@ -6,7 +6,9 @@
 
 <hr>
 <body>
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/Hws7aKoFHS9gs/giphy.gif?cid=ecf05e47z24w5f67wrvirnkofh6zfadf1l5ev07n68ucby1p&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/11xOhngUw9vipi/giphy.gif?cid=ecf05e47sqvt3cyzaiwe49uprcrhk04572vm5oowuwxri4mv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
 
 <h4>💬 About Me:</h4>
 <br> <p style="text-align: justify;">I'm an Engineering Data Science Master's student at the University of Houston, with a Bachelor's in Biomedical Engineering from the same institution. My passion for healthcare and innovation led me to explore emerging Virtual Reality (VR) technologies during my internship at Penumbra Inc, contributing to VR games for physical therapy. As a Laboratory Technician at MD Anderson Cancer Center, I excelled in quality assurance and ensured precise patient sample processing. Currently, I'm honing my programming skills, with more details on my experience and ongoing projects available on this website. Beyond my academic and professional pursuits, I'm a creative soul, enjoying ukulele covers, photography, skateboarding, and graphic design. My commitment to promoting women in STEM is evident through my 4+ years as a member of the Society of Women Engineers at the University of Houston, where I've proudly served as an officer for 2+ years.</p>
