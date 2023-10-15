@@ -23,7 +23,7 @@
 
 - **📄 Resume:** [https://drive.google.com/file/d/1kjzptfGM3PFse7Iw9rCyK_l9I5tGknTx/view?usp=sharing](https://drive.google.com/file/d/1kjzptfGM3PFse7Iw9rCyK_l9I5tGknTx/view?usp=sharing)
 
-- **⚡ Fun fact:** I love skateboarding and photography.
+- **⚡ Fun fact:** I am a Studio Ghibli Enthusiast.
 
 <hr>
 
