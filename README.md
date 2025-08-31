@@ -2,7 +2,7 @@
 
 <h1 align="center"> Welcome 👋 to my GitHub Space </h1>
 <h3 align="center"> I'm Quynh Nguyen
-<p align="center"> Engineering Data Science | Machine Learning Enthusiast | Women in STEM</h3>
+<p align="center"> AI/ML Enthusiast | Women in STEM</h3>
 
 <hr>
 
@@ -18,9 +18,9 @@
 
 <hr>
   
-- **🔭 Current Project: **[TBD](TBD)
+- **🔭 Current Project: ** [TBD](TBD)
 
-- **🌱 Current Interest: **Machine Learning, Python, SQL
+- **🌱 Current Interest: ** Machine Learning, Python, SQL
 
 - **📫 Reach Me At:** ntnq2000@gmail.com
 
