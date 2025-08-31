@@ -18,15 +18,11 @@
 
 <hr>
   
-- **🔭 Current Project:** [In Vehicle Coupon Reccomendation](https://github.com/ntnq2000/In_Coupon_Vehicle_Recommendation_Data_Preprocess)
+- **🔭 Current Project: **[TBD](TBD)
 
-- **🌱 Current Interest:** Machine Learning, Python, SQL
-
-- **👨‍💻 Personal Website:** [https://www.quynhinnovation.com/](https://www.quynhinnovation.com/)
+- **🌱 Current Interest: **Machine Learning, Python, SQL
 
 - **📫 Reach Me At:** ntnq2000@gmail.com
-
-- **📄 Resume:** [https://drive.google.com/file/d/1kjzptfGM3PFse7Iw9rCyK_l9I5tGknTx/view?usp=sharing](https://drive.google.com/file/d/1kjzptfGM3PFse7Iw9rCyK_l9I5tGknTx/view?usp=sharing)
 
 - **⚡ Fun fact:** I am a Studio Ghibli Enthusiast.
 
